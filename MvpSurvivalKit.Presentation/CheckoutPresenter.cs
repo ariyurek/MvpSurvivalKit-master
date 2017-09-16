@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using MvpSurvivalKit.View;
 using MvpSurvivalKit.Services;
-
+ 
 namespace MvpSurvivalKit.Presentation
 {
     public class CheckoutPresenter : BasePresenter<ICheckoutView>
